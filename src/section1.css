@@ -1,0 +1,20 @@
+.Section1 {
+    margin-top: 0px;
+    height: 700px;
+    
+}
+
+.carousel.slide{
+    height: 700px !important;
+}
+
+.carousel-inner{
+    height: 700px !important;
+}
+
+.slides{
+    background-color: grey;
+    height: 700px !important;
+    text-align: center;
+    padding: 10%;
+}
